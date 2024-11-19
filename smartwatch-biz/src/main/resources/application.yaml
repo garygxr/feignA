@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: smartwatch-server #服务名字
+server:
+  port: 8012  #服务端口
+#配置eureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:2001/eureka #购买云服务提供的eureka，可以写云服务提供的地点信息，否则就是默认--defaultZone 注册到哪个eureka平台

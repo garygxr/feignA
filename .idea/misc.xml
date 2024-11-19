@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="Jenkins.Application.Settings">
+    <option name="serverUrl" value="https://jenkinsdev.jinlingkeji.cn/" />
+  </component>
+  <component name="Jenkins.Settings">
+    <option name="crumbData" value="d80f65e8623e8b1c79cf26362770db438b13824191562198e64f7e48e81e27ee" />
+    <option name="jenkinsVersion" value="VERSION_2" />
+    <option name="username" value="ganxinrui" />
+  </component>
+  <component name="JenkinsBrowserPanel">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/EurekaService/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
